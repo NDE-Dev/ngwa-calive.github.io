@@ -1,0 +1,24 @@
+.body{
+    border: 4px solid black;
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gajn b
+}
+.header img{
+    height: 200px;
+    width: 200px;
+}
+.bel {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 10px;
+}
+.bel  img {
+    height: 200px;
+    width: 200px;
+}   
